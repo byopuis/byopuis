@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @byopuis
-- 👀 I’m interested in leran how coding works
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on whatever that can help me improve my skills
-- 📫 How to reach me byop_aus@hotmaol.com
+- 👀 I’m interested in learning how coding works
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on whatever can help me improve my skills
+- 📫 How to reach me byop_aus@hotmail.com
 
 <!---
 byopuis/byopuis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
